@@ -8,6 +8,8 @@ public class JavaCodingChallengeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaCodingChallengeApplication.class, args);
+		
+		System.out.println("Hello");		
 	}
 
 }
